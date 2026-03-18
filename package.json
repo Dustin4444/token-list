@@ -1,0 +1,21 @@
+{
+  "name": "monad-token-list",
+  "version": "1.0.0",
+  "description": "Monad Token List - A standardized list of tokens deployed on Monad",
+  "scripts": {
+    "dev": "npx serve public",
+    "build": "echo 'Static site - no build required'",
+    "lint": "echo 'No linting configured for static HTML'"
+  },
+  "keywords": [
+    "monad",
+    "token-list",
+    "blockchain",
+    "cryptocurrency"
+  ],
+  "author": "Monad Community",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
